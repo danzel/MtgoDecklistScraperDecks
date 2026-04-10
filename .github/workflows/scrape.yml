@@ -2,7 +2,7 @@ name: Scrape MTGO Decklists
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # every 4 hours
+    - cron: '48 */4 * * *'  # every 4 hours at :48
   workflow_dispatch:
 
 permissions:
