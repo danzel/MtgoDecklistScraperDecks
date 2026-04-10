@@ -37,7 +37,16 @@ jobs:
           unzip -q scraper.zip -d scraper
 
       - name: Run scraper
-        run: dotnet scraper/publish/MtgoDecklistScraperNet.dll
+        run: |
+          # On the 1st and 2nd of the month also scrape the previous month to catch any late-published events.
+          DAY=$(date -u +%d)
+          if [ "$DAY" -le 2 ]; then
+            PREV_YEAR=$(date -u -d "$(date -u +%Y-%m-01) -1 day" +%Y)
+            PREV_MONTH=$(date -u -d "$(date -u +%Y-%m-01) -1 day" +%m)
+            echo "Scraping previous month: $PREV_YEAR-$PREV_MONTH"
+            dotnet scraper/publish/MtgoDecklistScraperNet.dll --year "$PREV_YEAR" --month "$PREV_MONTH"
+          fi
+          dotnet scraper/publish/MtgoDecklistScraperNet.dll
 
       - name: Commit changes
         run: |
