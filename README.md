@@ -10,6 +10,11 @@ A GitHub Actions workflow downloads the latest [MtgoDecklistScraperNet](https://
 - `output/YYYY/MM/events.json` — list of event filenames for that month
 - `output/YYYY/MM/{event-slug}.json` — full deck data for one event
 
+You can fetch these from the published site:
+- https://danzel.github.io/MtgoDecklistScraperDecks/months.json
+- https://danzel.github.io/MtgoDecklistScraperDecks/2026/04/events.json
+- https://danzel.github.io/MtgoDecklistScraperDecks/2026/04/legacy-challenge-32-2026-04-0112838090.json
+
 ## Setup
 
 1. Push this repo to GitHub
