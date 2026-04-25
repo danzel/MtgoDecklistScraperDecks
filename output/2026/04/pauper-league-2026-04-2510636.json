@@ -1,0 +1,528 @@
+{
+  "decklists": [
+    {
+      "player": "andredoriaa",
+      "loginid": "3101205",
+      "instance_id": "10636_2026-04-25",
+      "main_deck": [
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "24817",
+          "card_attributes": {
+            "digitalobjectcatalogid": "24817",
+            "card_name": "Skred",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "CSP",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "30558",
+          "card_attributes": {
+            "digitalobjectcatalogid": "30558",
+            "card_name": "Snow-Covered Mountain",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "ME2",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "87897",
+          "card_attributes": {
+            "digitalobjectcatalogid": "87897",
+            "card_name": "Volatile Fjord",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "KHM",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "13259",
+          "card_attributes": {
+            "digitalobjectcatalogid": "13259",
+            "card_name": "Counterspell",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "MM",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "8",
+          "sideboard": "false",
+          "docid": "30556",
+          "card_attributes": {
+            "digitalobjectcatalogid": "30556",
+            "card_name": "Snow-Covered Island",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "ME2",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "112030",
+          "card_attributes": {
+            "digitalobjectcatalogid": "112030",
+            "card_name": "L\u00F3rien Revealed",
+            "cost": "5",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "LTR",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "114649",
+          "card_attributes": {
+            "digitalobjectcatalogid": "114649",
+            "card_name": "Crimson Fleet Commodore",
+            "cost": "4",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "CMM",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "69463",
+          "card_attributes": {
+            "digitalobjectcatalogid": "69463",
+            "card_name": "Murmuring Mystic",
+            "cost": "4",
+            "rarity": "UNCOMMON",
+            "color": "BLUE",
+            "cardset": "GRN",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "37388",
+          "card_attributes": {
+            "digitalobjectcatalogid": "37388",
+            "card_name": "Preordain",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "M11",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "126453",
+          "card_attributes": {
+            "digitalobjectcatalogid": "126453",
+            "card_name": "Bountiful Landscape",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "MH3",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "32859",
+          "card_attributes": {
+            "digitalobjectcatalogid": "32859",
+            "card_name": "Lightning Bolt",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "M10",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "13157",
+          "card_attributes": {
+            "digitalobjectcatalogid": "13157",
+            "card_name": "Brainstorm",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "MM",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "84898",
+          "card_attributes": {
+            "digitalobjectcatalogid": "84898",
+            "card_name": "Azure Fleet Admiral",
+            "cost": "4",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "CMR",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "138625",
+          "card_attributes": {
+            "digitalobjectcatalogid": "138625",
+            "card_name": "Bountiful Landscape",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "TDC",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "101610",
+          "card_attributes": {
+            "digitalobjectcatalogid": "101610",
+            "card_name": "Spell Pierce",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "2X2",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "144214",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144214",
+            "card_name": "Leyline Weaver",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "MULTICOLORED",
+            "cardset": "OM1",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED",
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "87883",
+          "card_attributes": {
+            "digitalobjectcatalogid": "87883",
+            "card_name": "Rimewood Falls",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "KHM",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "30554",
+          "card_attributes": {
+            "digitalobjectcatalogid": "30554",
+            "card_name": "Snow-Covered Forest",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "ME2",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "126435",
+          "card_attributes": {
+            "digitalobjectcatalogid": "126435",
+            "card_name": "Writhing Chrysalis",
+            "cost": "4",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "MH3",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "58363",
+          "card_attributes": {
+            "digitalobjectcatalogid": "58363",
+            "card_name": "Dispel",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "BFZ",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "100458",
+          "card_attributes": {
+            "digitalobjectcatalogid": "100458",
+            "card_name": "Avenging Hunter",
+            "cost": "5",
+            "rarity": "COMMON",
+            "color": "GREEN",
+            "cardset": "CLB",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "100352",
+          "card_attributes": {
+            "digitalobjectcatalogid": "100352",
+            "card_name": "Breath Weapon",
+            "cost": "3",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "CLB",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "90467",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90467",
+            "card_name": "Lose Focus",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "MH2",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "28041",
+          "card_attributes": {
+            "digitalobjectcatalogid": "28041",
+            "card_name": "Hydroblast",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "MED",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "33226",
+          "card_attributes": {
+            "digitalobjectcatalogid": "33226",
+            "card_name": "Relic of Progenitus",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "TD0",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "19703",
+          "card_attributes": {
+            "digitalobjectcatalogid": "19703",
+            "card_name": "Annul",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "MRD",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "67000",
+          "card_attributes": {
+            "digitalobjectcatalogid": "67000",
+            "card_name": "Blue Elemental Blast",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "BLUE",
+            "cardset": "A25",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "37889",
+          "card_attributes": {
+            "digitalobjectcatalogid": "37889",
+            "card_name": "Pyroblast",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "TD0",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "89173",
+          "card_attributes": {
+            "digitalobjectcatalogid": "89173",
+            "card_name": "Weather the Storm",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "STA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "34900755"
+    }
+  ],
+  "playeventid": "10636",
+  "name": "Pauper League",
+  "publish_date": "2026-04-25",
+  "instance_id": "10636_2026-04-25",
+  "site_name": "pauper-league-2026-04-2510636",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
