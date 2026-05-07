@@ -37,6 +37,8 @@ jobs:
           unzip -q scraper.zip -d scraper
 
       - name: Run scraper
+        id: scrape
+        continue-on-error: true
         run: |
           # On the 1st and 2nd of the month also scrape the previous month to catch any late-published events.
           DAY=$(date -u +%d)
@@ -47,6 +49,19 @@ jobs:
             dotnet scraper/publish/MtgoDecklistScraperNet.dll --year "$PREV_YEAR" --month "$PREV_MONTH"
           fi
           dotnet scraper/publish/MtgoDecklistScraperNet.dll
+
+      - name: Check scraper failure tolerance
+        if: steps.scrape.outcome == 'failure'
+        run: |
+          # Tolerate scraper failures (e.g. mtgo.com outages) until we've had no successful commits for 48 hours.
+          LAST_COMMIT_TS=$(git log -1 --format=%ct)
+          NOW_TS=$(date -u +%s)
+          AGE_HOURS=$(( (NOW_TS - LAST_COMMIT_TS) / 3600 ))
+          if [ "$AGE_HOURS" -gt 48 ]; then
+            echo "Scraper failed and last commit was ${AGE_HOURS}h ago (>48h). Failing build."
+            exit 1
+          fi
+          echo "Scraper failed but last commit was ${AGE_HOURS}h ago (<=48h). Tolerating failure."
 
       - name: Commit changes
         run: |
