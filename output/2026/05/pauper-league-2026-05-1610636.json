@@ -1,0 +1,409 @@
+{
+  "decklists": [
+    {
+      "player": "newbarola",
+      "loginid": "2786530",
+      "instance_id": "10636_2026-05-16",
+      "main_deck": [
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "126108",
+          "card_attributes": {
+            "digitalobjectcatalogid": "126108",
+            "card_name": "Thraben Charm",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "MH3",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "123958",
+          "card_attributes": {
+            "digitalobjectcatalogid": "123958",
+            "card_name": "Outlaw Medic",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "OTJ",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "120398",
+          "card_attributes": {
+            "digitalobjectcatalogid": "120398",
+            "card_name": "Selesnya Guildgate",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "RVR",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "100750",
+          "card_attributes": {
+            "digitalobjectcatalogid": "100750",
+            "card_name": "Manor Gate",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "CLB",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "100746",
+          "card_attributes": {
+            "digitalobjectcatalogid": "100746",
+            "card_name": "Heap Gate",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "CLB",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "100736",
+          "card_attributes": {
+            "digitalobjectcatalogid": "100736",
+            "card_name": "Citadel Gate",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "CLB",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "63657",
+          "card_attributes": {
+            "digitalobjectcatalogid": "63657",
+            "card_name": "Sacred Cat",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "AKH",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "14328",
+          "card_attributes": {
+            "digitalobjectcatalogid": "14328",
+            "card_name": "Armadillo Cloak",
+            "cost": "3",
+            "rarity": "COMMON",
+            "color": "MULTICOLORED",
+            "cardset": "IN",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_GREEN",
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "146756",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146756",
+            "card_name": "Midnight Tilling",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "GREEN",
+            "cardset": "ECL",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "46348",
+          "card_attributes": {
+            "digitalobjectcatalogid": "46348",
+            "card_name": "Gatecreeper Vine",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "GREEN",
+            "cardset": "RTR",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "34391",
+          "card_attributes": {
+            "digitalobjectcatalogid": "34391",
+            "card_name": "Journey to Nowhere",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "ZEN",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "24304",
+          "card_attributes": {
+            "digitalobjectcatalogid": "24304",
+            "card_name": "Guardian of the Guildpact",
+            "cost": "4",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "DIS",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "30994",
+          "card_attributes": {
+            "digitalobjectcatalogid": "30994",
+            "card_name": "Forest",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "ALA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "309",
+          "card_attributes": {
+            "digitalobjectcatalogid": "309",
+            "card_name": "Plains",
+            "cost": "0",
+            "rarity": "PROMO",
+            "color": "COLORLESS",
+            "cardset": "PRM",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "148242",
+          "card_attributes": {
+            "digitalobjectcatalogid": "148242",
+            "card_name": "Malevolent Rumble",
+            "cost": "2",
+            "rarity": "PROMO",
+            "color": "GREEN",
+            "cardset": "PRM_RTO",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "17390",
+          "card_attributes": {
+            "digitalobjectcatalogid": "17390",
+            "card_name": "Prismatic Strands",
+            "cost": "3",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "JUD",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "120264",
+          "card_attributes": {
+            "digitalobjectcatalogid": "120264",
+            "card_name": "Arboreal Grazer",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "GREEN",
+            "cardset": "RVR",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "100730",
+          "card_attributes": {
+            "digitalobjectcatalogid": "100730",
+            "card_name": "Basilisk Gate",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "CLB",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "4",
+          "sideboard": "true",
+          "docid": "150274",
+          "card_attributes": {
+            "digitalobjectcatalogid": "150274",
+            "card_name": "Breath Weapon",
+            "cost": "3",
+            "rarity": "PROMO",
+            "color": "RED",
+            "cardset": "PRM_RTO",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "30895",
+          "card_attributes": {
+            "digitalobjectcatalogid": "30895",
+            "card_name": "Relic of Progenitus",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "ALA",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "true",
+          "docid": "38000",
+          "card_attributes": {
+            "digitalobjectcatalogid": "38000",
+            "card_name": "Revoke Existence",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "SOM",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "true",
+          "docid": "38827",
+          "card_attributes": {
+            "digitalobjectcatalogid": "38827",
+            "card_name": "Dust to Dust",
+            "cost": "3",
+            "rarity": "UNCOMMON",
+            "color": "WHITE",
+            "cardset": "ME4",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "35057762"
+    }
+  ],
+  "playeventid": "10636",
+  "name": "Pauper League",
+  "publish_date": "2026-05-16",
+  "instance_id": "10636_2026-05-16",
+  "site_name": "pauper-league-2026-05-1610636",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
