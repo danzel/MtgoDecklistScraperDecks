@@ -1,0 +1,664 @@
+{
+  "decklists": [
+    {
+      "player": "Klobster",
+      "loginid": "1083315",
+      "instance_id": "10871_2026-06-26",
+      "main_deck": [
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "12791",
+          "card_attributes": {
+            "digitalobjectcatalogid": "12791",
+            "card_name": "Academy Rector",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "WHITE",
+            "cardset": "UD",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "7348",
+          "card_attributes": {
+            "digitalobjectcatalogid": "7348",
+            "card_name": "Swamp",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "MI",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "18603",
+          "card_attributes": {
+            "digitalobjectcatalogid": "18603",
+            "card_name": "Graveborn Muse",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "LGN",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "18701",
+          "card_attributes": {
+            "digitalobjectcatalogid": "18701",
+            "card_name": "Form of the Dragon",
+            "cost": "7",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "SCG",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "17876",
+          "card_attributes": {
+            "digitalobjectcatalogid": "17876",
+            "card_name": "Future Sight",
+            "cost": "5",
+            "rarity": "RARE",
+            "color": "BLUE",
+            "cardset": "ONS",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "7346",
+          "card_attributes": {
+            "digitalobjectcatalogid": "7346",
+            "card_name": "Swamp",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "MI",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "16324",
+          "card_attributes": {
+            "digitalobjectcatalogid": "16324",
+            "card_name": "Phyrexian Arena",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "AP",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "7352",
+          "card_attributes": {
+            "digitalobjectcatalogid": "7352",
+            "card_name": "Swamp",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "MI",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "16070",
+          "card_attributes": {
+            "digitalobjectcatalogid": "16070",
+            "card_name": "Caves of Koilos",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "AP",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "16751",
+          "card_attributes": {
+            "digitalobjectcatalogid": "16751",
+            "card_name": "Tainted Pact",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "OD",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "18471",
+          "card_attributes": {
+            "digitalobjectcatalogid": "18471",
+            "card_name": "Withered Wretch",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "BLACK",
+            "cardset": "LGN",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "7200",
+          "card_attributes": {
+            "digitalobjectcatalogid": "7200",
+            "card_name": "Plains",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "MI",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "7198",
+          "card_attributes": {
+            "digitalobjectcatalogid": "7198",
+            "card_name": "Plains",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "MI",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "7194",
+          "card_attributes": {
+            "digitalobjectcatalogid": "7194",
+            "card_name": "Plains",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "MI",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "7196",
+          "card_attributes": {
+            "digitalobjectcatalogid": "7196",
+            "card_name": "Plains",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "MI",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "11961",
+          "card_attributes": {
+            "digitalobjectcatalogid": "11961",
+            "card_name": "Phyrexian Tower",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "UZ",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "18271",
+          "card_attributes": {
+            "digitalobjectcatalogid": "18271",
+            "card_name": "Grand Coliseum",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "ONS",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "7000",
+          "card_attributes": {
+            "digitalobjectcatalogid": "7000",
+            "card_name": "Forest",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "MI",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "30580",
+          "card_attributes": {
+            "digitalobjectcatalogid": "30580",
+            "card_name": "Swords to Plowshares",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "WHITE",
+            "cardset": "ME2",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "13547",
+          "card_attributes": {
+            "digitalobjectcatalogid": "13547",
+            "card_name": "Disenchant",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "MM",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "16230",
+          "card_attributes": {
+            "digitalobjectcatalogid": "16230",
+            "card_name": "Pernicious Deed",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "AP",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_BLACK",
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "17643",
+          "card_attributes": {
+            "digitalobjectcatalogid": "17643",
+            "card_name": "Exalted Angel",
+            "cost": "6",
+            "rarity": "RARE",
+            "color": "WHITE",
+            "cardset": "ONS",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "7350",
+          "card_attributes": {
+            "digitalobjectcatalogid": "7350",
+            "card_name": "Swamp",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "MI",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "18255",
+          "card_attributes": {
+            "digitalobjectcatalogid": "18255",
+            "card_name": "Windswept Heath",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "ONS",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "17496",
+          "card_attributes": {
+            "digitalobjectcatalogid": "17496",
+            "card_name": "Cabal Therapy",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "BLACK",
+            "cardset": "JUD",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "15462",
+          "card_attributes": {
+            "digitalobjectcatalogid": "15462",
+            "card_name": "Duress",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLACK",
+            "cardset": "7E",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "9407",
+          "card_attributes": {
+            "digitalobjectcatalogid": "9407",
+            "card_name": "Gaea\u0027s Blessing",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "GREEN",
+            "cardset": "WL",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "9407",
+          "card_attributes": {
+            "digitalobjectcatalogid": "9407",
+            "card_name": "Gaea\u0027s Blessing",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "GREEN",
+            "cardset": "WL",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "11891",
+          "card_attributes": {
+            "digitalobjectcatalogid": "11891",
+            "card_name": "Presence of the Master",
+            "cost": "4",
+            "rarity": "UNCOMMON",
+            "color": "WHITE",
+            "cardset": "UZ",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "16987",
+          "card_attributes": {
+            "digitalobjectcatalogid": "16987",
+            "card_name": "Sphere of Law",
+            "cost": "4",
+            "rarity": "UNCOMMON",
+            "color": "WHITE",
+            "cardset": "OD",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "6908",
+          "card_attributes": {
+            "digitalobjectcatalogid": "6908",
+            "card_name": "Disenchant",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "MI",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "14905",
+          "card_attributes": {
+            "digitalobjectcatalogid": "14905",
+            "card_name": "Tsabo\u0027s Web",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "IN",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "18471",
+          "card_attributes": {
+            "digitalobjectcatalogid": "18471",
+            "card_name": "Withered Wretch",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "BLACK",
+            "cardset": "LGN",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "15994",
+          "card_attributes": {
+            "digitalobjectcatalogid": "15994",
+            "card_name": "Wrath of God",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "WHITE",
+            "cardset": "7E",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "26033",
+          "card_attributes": {
+            "digitalobjectcatalogid": "26033",
+            "card_name": "Tormod\u0027s Crypt",
+            "cost": "0",
+            "rarity": "BONUS",
+            "color": "COLORLESS",
+            "cardset": "TSB",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "18766",
+          "card_attributes": {
+            "digitalobjectcatalogid": "18766",
+            "card_name": "Eternal Dragon",
+            "cost": "7",
+            "rarity": "RARE",
+            "color": "WHITE",
+            "cardset": "SCG",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "6907",
+          "card_attributes": {
+            "digitalobjectcatalogid": "6907",
+            "card_name": "Disenchant",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "MI",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "35356044"
+    }
+  ],
+  "playeventid": "10871",
+  "name": "Premodern League",
+  "publish_date": "2026-06-26",
+  "instance_id": "10871_2026-06-26",
+  "site_name": "premodern-league-2026-06-2610871",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
