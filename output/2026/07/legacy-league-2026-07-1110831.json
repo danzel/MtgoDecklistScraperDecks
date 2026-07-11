@@ -1,0 +1,724 @@
+{
+  "decklists": [
+    {
+      "player": "huanhuanhuan",
+      "loginid": "3496651",
+      "instance_id": "10831_2026-07-11",
+      "main_deck": [
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "79632",
+          "card_attributes": {
+            "digitalobjectcatalogid": "79632",
+            "card_name": "Forest",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "THB",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "66855",
+          "card_attributes": {
+            "digitalobjectcatalogid": "66855",
+            "card_name": "Swamp",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "RIX",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "27715",
+          "card_attributes": {
+            "digitalobjectcatalogid": "27715",
+            "card_name": "Birds of Paradise",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "10E",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "28269",
+          "card_attributes": {
+            "digitalobjectcatalogid": "28269",
+            "card_name": "Thoughtseize",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "LRW",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "34704",
+          "card_attributes": {
+            "digitalobjectcatalogid": "34704",
+            "card_name": "Verdant Catacombs",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "ZEN",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "35515",
+          "card_attributes": {
+            "digitalobjectcatalogid": "35515",
+            "card_name": "Bojuka Bog",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "WWK",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "39581",
+          "card_attributes": {
+            "digitalobjectcatalogid": "39581",
+            "card_name": "Green Sun\u0027s Zenith",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "MBS",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "46246",
+          "card_attributes": {
+            "digitalobjectcatalogid": "46246",
+            "card_name": "Dryad Arbor",
+            "cost": "0",
+            "rarity": "MYTHIC",
+            "color": "GREEN",
+            "cardset": "V12",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "53079",
+          "card_attributes": {
+            "digitalobjectcatalogid": "53079",
+            "card_name": "Bayou",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "VMA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "54202",
+          "card_attributes": {
+            "digitalobjectcatalogid": "54202",
+            "card_name": "Windswept Heath",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "KTK",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "60547",
+          "card_attributes": {
+            "digitalobjectcatalogid": "60547",
+            "card_name": "Natural Order",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "GREEN",
+            "cardset": "EMA",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "60971",
+          "card_attributes": {
+            "digitalobjectcatalogid": "60971",
+            "card_name": "Wasteland",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "EMA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "72688",
+          "card_attributes": {
+            "digitalobjectcatalogid": "72688",
+            "card_name": "Collector Ouphe",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "MH1",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "78478",
+          "card_attributes": {
+            "digitalobjectcatalogid": "78478",
+            "card_name": "Once Upon a Time",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "ELD",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "90691",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90691",
+            "card_name": "Endurance",
+            "cost": "3",
+            "rarity": "MYTHIC",
+            "color": "GREEN",
+            "cardset": "MH2",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "90709",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90709",
+            "card_name": "Ignoble Hierarch",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "MH2",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "90781",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90781",
+            "card_name": "Grist, the Hunger Tide",
+            "cost": "3",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "MH2",
+            "card_type": "PLNWKR",
+            "colors": [
+              "COLOR_BLACK",
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "90993",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90993",
+            "card_name": "Quirion Ranger",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "GREEN",
+            "cardset": "MH2",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "34622",
+          "card_attributes": {
+            "digitalobjectcatalogid": "34622",
+            "card_name": "Misty Rainforest",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "ZEN",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "36112",
+          "card_attributes": {
+            "digitalobjectcatalogid": "36112",
+            "card_name": "Gaea\u0027s Cradle",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "PRM",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "106607",
+          "card_attributes": {
+            "digitalobjectcatalogid": "106607",
+            "card_name": "Atraxa, Grand Unifier",
+            "cost": "7",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "ONE",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK",
+              "COLOR_BLUE",
+              "COLOR_GREEN",
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "81803",
+          "card_attributes": {
+            "digitalobjectcatalogid": "81803",
+            "card_name": "Allosaurus Shepherd",
+            "cost": "1",
+            "rarity": "MYTHIC",
+            "color": "GREEN",
+            "cardset": "JMP",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "126433",
+          "card_attributes": {
+            "digitalobjectcatalogid": "126433",
+            "card_name": "Wight of the Reliquary",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "MH3",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK",
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "125985",
+          "card_attributes": {
+            "digitalobjectcatalogid": "125985",
+            "card_name": "Sylvan Safekeeper",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "MH3",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "126727",
+          "card_attributes": {
+            "digitalobjectcatalogid": "126727",
+            "card_name": "Talon Gates of Madara",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "M3C",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "132431",
+          "card_attributes": {
+            "digitalobjectcatalogid": "132431",
+            "card_name": "Alpha Deathclaw",
+            "cost": "6",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "PIP",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK",
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "63323",
+          "card_attributes": {
+            "digitalobjectcatalogid": "63323",
+            "card_name": "Craterhoof Behemoth",
+            "cost": "8",
+            "rarity": "MYTHIC",
+            "color": "GREEN",
+            "cardset": "MM3",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "145024",
+          "card_attributes": {
+            "digitalobjectcatalogid": "145024",
+            "card_name": "Ba Sing Se",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "TLA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "144818",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144818",
+            "card_name": "Badgermole Cub",
+            "cost": "2",
+            "rarity": "MYTHIC",
+            "color": "GREEN",
+            "cardset": "TLA",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "10033",
+          "card_attributes": {
+            "digitalobjectcatalogid": "10033",
+            "card_name": "Choke",
+            "cost": "3",
+            "rarity": "UNCOMMON",
+            "color": "GREEN",
+            "cardset": "TE",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "12085",
+          "card_attributes": {
+            "digitalobjectcatalogid": "12085",
+            "card_name": "Carpet of Flowers",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "GREEN",
+            "cardset": "UZ",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "28269",
+          "card_attributes": {
+            "digitalobjectcatalogid": "28269",
+            "card_name": "Thoughtseize",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "LRW",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "28445",
+          "card_attributes": {
+            "digitalobjectcatalogid": "28445",
+            "card_name": "Gaddock Teeg",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "LRW",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN",
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "34952",
+          "card_attributes": {
+            "digitalobjectcatalogid": "34952",
+            "card_name": "Snuff Out",
+            "cost": "4",
+            "rarity": "COMMON",
+            "color": "BLACK",
+            "cardset": "DDD",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "23911",
+          "card_attributes": {
+            "digitalobjectcatalogid": "23911",
+            "card_name": "Leyline of the Void",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "GPT",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "59681",
+          "card_attributes": {
+            "digitalobjectcatalogid": "59681",
+            "card_name": "Abrupt Decay",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "PRM",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLACK",
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "72700",
+          "card_attributes": {
+            "digitalobjectcatalogid": "72700",
+            "card_name": "Force of Vigor",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "MH1",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "121816",
+          "card_attributes": {
+            "digitalobjectcatalogid": "121816",
+            "card_name": "Pick Your Poison",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "GREEN",
+            "cardset": "MKM",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "132413",
+          "card_attributes": {
+            "digitalobjectcatalogid": "132413",
+            "card_name": "Rampaging Yao Guai",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "PIP",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "139733",
+          "card_attributes": {
+            "digitalobjectcatalogid": "139733",
+            "card_name": "Ureni, the Song Unending",
+            "cost": "8",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "TDM",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE",
+              "COLOR_GREEN",
+              "COLOR_RED"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "35466883"
+    }
+  ],
+  "playeventid": "10831",
+  "name": "Legacy League",
+  "publish_date": "2026-07-11",
+  "instance_id": "10831_2026-07-11",
+  "site_name": "legacy-league-2026-07-1110831",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
