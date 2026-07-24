@@ -1,0 +1,539 @@
+{
+  "decklists": [
+    {
+      "player": "Maarlfox",
+      "loginid": "2675320",
+      "instance_id": "10863_2026-07-24",
+      "main_deck": [
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "146059",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146059",
+            "card_name": "Secluded Courtyard",
+            "cost": "0",
+            "rarity": "UNCOMMON",
+            "color": "COLORLESS",
+            "cardset": "ECC",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "129795",
+          "card_attributes": {
+            "digitalobjectcatalogid": "129795",
+            "card_name": "Plains",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "BLB",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "146669",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146669",
+            "card_name": "Flamebraider",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "ECL",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "83459",
+          "card_attributes": {
+            "digitalobjectcatalogid": "83459",
+            "card_name": "Omnath, Locus of Creation",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "ZNR",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN",
+              "COLOR_RED",
+              "COLOR_BLUE",
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "73333",
+          "card_attributes": {
+            "digitalobjectcatalogid": "73333",
+            "card_name": "Risen Reef",
+            "cost": "3",
+            "rarity": "UNCOMMON",
+            "color": "MULTICOLORED",
+            "cardset": "M20",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE",
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "129824",
+          "card_attributes": {
+            "digitalobjectcatalogid": "129824",
+            "card_name": "Forest",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "BLB",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "48302",
+          "card_attributes": {
+            "digitalobjectcatalogid": "48302",
+            "card_name": "Voice of Resurgence",
+            "cost": "2",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "DGM",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN",
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "46501",
+          "card_attributes": {
+            "digitalobjectcatalogid": "46501",
+            "card_name": "Temple Garden",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "RTR",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "146663",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146663",
+            "card_name": "Explosive Prodigy",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "ECL",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "73331",
+          "card_attributes": {
+            "digitalobjectcatalogid": "73331",
+            "card_name": "Omnath, Locus of the Roil",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "M20",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN",
+              "COLOR_RED",
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "149529",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149529",
+            "card_name": "Erode",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "WHITE",
+            "cardset": "SOS",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "116732",
+          "card_attributes": {
+            "digitalobjectcatalogid": "116732",
+            "card_name": "Up the Beanstalk",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "GREEN",
+            "cardset": "WOE",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "44245",
+          "card_attributes": {
+            "digitalobjectcatalogid": "44245",
+            "card_name": "Cavern of Souls",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "AVR",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "97500",
+          "card_attributes": {
+            "digitalobjectcatalogid": "97500",
+            "card_name": "Secluded Courtyard",
+            "cost": "0",
+            "rarity": "UNCOMMON",
+            "color": "COLORLESS",
+            "cardset": "NEO",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "141555",
+          "card_attributes": {
+            "digitalobjectcatalogid": "141555",
+            "card_name": "Starting Town",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "FIN",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "65546",
+          "card_attributes": {
+            "digitalobjectcatalogid": "65546",
+            "card_name": "Unclaimed Territory",
+            "cost": "0",
+            "rarity": "UNCOMMON",
+            "color": "COLORLESS",
+            "cardset": "XLN",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "146991",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146991",
+            "card_name": "Wistfulness",
+            "cost": "5",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "ECL",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE",
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "97482",
+          "card_attributes": {
+            "digitalobjectcatalogid": "97482",
+            "card_name": "Boseiju, Who Endures",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "NEO",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "146919",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146919",
+            "card_name": "Eclipsed Realms",
+            "cost": "0",
+            "rarity": "UNCOMMON",
+            "color": "COLORLESS",
+            "cardset": "ECL",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "97486",
+          "card_attributes": {
+            "digitalobjectcatalogid": "97486",
+            "card_name": "Eiganjo, Seat of the Empire",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "NEO",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "146989",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146989",
+            "card_name": "Vibrance",
+            "cost": "5",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "ECL",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN",
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "146987",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146987",
+            "card_name": "Emptiness",
+            "cost": "6",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "ECL",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE",
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "146533",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146533",
+            "card_name": "Sunderflock",
+            "cost": "9",
+            "rarity": "RARE",
+            "color": "BLUE",
+            "cardset": "ECL",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "80457",
+          "card_attributes": {
+            "digitalobjectcatalogid": "80457",
+            "card_name": "Kaheera, the Orphanguard",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "IKO",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE",
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "true",
+          "docid": "146985",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146985",
+            "card_name": "Deceit",
+            "cost": "6",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "ECL",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK",
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "78108",
+          "card_attributes": {
+            "digitalobjectcatalogid": "78108",
+            "card_name": "Deafening Silence",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "WHITE",
+            "cardset": "ELD",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "130627",
+          "card_attributes": {
+            "digitalobjectcatalogid": "130627",
+            "card_name": "Ghost Vacuum",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "DSK",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "146533",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146533",
+            "card_name": "Sunderflock",
+            "cost": "9",
+            "rarity": "RARE",
+            "color": "BLUE",
+            "cardset": "ECL",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "129249",
+          "card_attributes": {
+            "digitalobjectcatalogid": "129249",
+            "card_name": "Beza, the Bounding Spring",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "WHITE",
+            "cardset": "BLB",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "35534668"
+    }
+  ],
+  "playeventid": "10863",
+  "name": "Pioneer League",
+  "publish_date": "2026-07-24",
+  "instance_id": "10863_2026-07-24",
+  "site_name": "pioneer-league-2026-07-2410863",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
