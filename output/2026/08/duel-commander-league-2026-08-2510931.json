@@ -1,0 +1,1292 @@
+{
+  "decklists": [
+    {
+      "player": "TVAmaral",
+      "loginid": "3339360",
+      "instance_id": "10931_2026-08-25",
+      "main_deck": [
+        {
+          "qty": "27",
+          "sideboard": "false",
+          "docid": "64900",
+          "card_attributes": {
+            "digitalobjectcatalogid": "64900",
+            "card_name": "Mountain",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "HOU",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "16058",
+          "card_attributes": {
+            "digitalobjectcatalogid": "16058",
+            "card_name": "Bloodfire Dwarf",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "AP",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "16733",
+          "card_attributes": {
+            "digitalobjectcatalogid": "16733",
+            "card_name": "Dwarven Grunt",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "OD",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "16691",
+          "card_attributes": {
+            "digitalobjectcatalogid": "16691",
+            "card_name": "Spark Mage",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "OD",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "17233",
+          "card_attributes": {
+            "digitalobjectcatalogid": "17233",
+            "card_name": "Enslaved Dwarf",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "TOR",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "17540",
+          "card_attributes": {
+            "digitalobjectcatalogid": "17540",
+            "card_name": "Dwarven Bloodboiler",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "JUD",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "17514",
+          "card_attributes": {
+            "digitalobjectcatalogid": "17514",
+            "card_name": "Dwarven Scorcher",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "JUD",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "17506",
+          "card_attributes": {
+            "digitalobjectcatalogid": "17506",
+            "card_name": "Liberated Dwarf",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "JUD",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "46499",
+          "card_attributes": {
+            "digitalobjectcatalogid": "46499",
+            "card_name": "Pithing Needle",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "RTR",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "33083",
+          "card_attributes": {
+            "digitalobjectcatalogid": "33083",
+            "card_name": "Bogardan Hellkite",
+            "cost": "8",
+            "rarity": "MYTHIC",
+            "color": "RED",
+            "cardset": "M10",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "25889",
+          "card_attributes": {
+            "digitalobjectcatalogid": "25889",
+            "card_name": "Gemstone Caverns",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "TSP",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "26357",
+          "card_attributes": {
+            "digitalobjectcatalogid": "26357",
+            "card_name": "Simian Spirit Guide",
+            "cost": "3",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "PLC",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "26860",
+          "card_attributes": {
+            "digitalobjectcatalogid": "26860",
+            "card_name": "Magus of the Moon",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "FUT",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "51871",
+          "card_attributes": {
+            "digitalobjectcatalogid": "51871",
+            "card_name": "Springleaf Drum",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "COLORLESS",
+            "cardset": "BNG",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "29074",
+          "card_attributes": {
+            "digitalobjectcatalogid": "29074",
+            "card_name": "Mutavault",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "MOR",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "33500",
+          "card_attributes": {
+            "digitalobjectcatalogid": "33500",
+            "card_name": "Chain Lightning",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "ME3",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "34590",
+          "card_attributes": {
+            "digitalobjectcatalogid": "34590",
+            "card_name": "Scalding Tarn",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "ZEN",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "36640",
+          "card_attributes": {
+            "digitalobjectcatalogid": "36640",
+            "card_name": "Flame Slash",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "ROE",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "32859",
+          "card_attributes": {
+            "digitalobjectcatalogid": "32859",
+            "card_name": "Lightning Bolt",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "M10",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "38203",
+          "card_attributes": {
+            "digitalobjectcatalogid": "38203",
+            "card_name": "Galvanic Blast",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "SOM",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "40484",
+          "card_attributes": {
+            "digitalobjectcatalogid": "40484",
+            "card_name": "Ruination",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "CMD",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "13809",
+          "card_attributes": {
+            "digitalobjectcatalogid": "13809",
+            "card_name": "Tangle Wire",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "NE",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "53706",
+          "card_attributes": {
+            "digitalobjectcatalogid": "53706",
+            "card_name": "Crowd\u0027s Favor",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "M15",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "36254",
+          "card_attributes": {
+            "digitalobjectcatalogid": "36254",
+            "card_name": "Bloodstained Mire",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "PRM",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "54200",
+          "card_attributes": {
+            "digitalobjectcatalogid": "54200",
+            "card_name": "Wooded Foothills",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "KTK",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "59609",
+          "card_attributes": {
+            "digitalobjectcatalogid": "59609",
+            "card_name": "Holdout Settlement",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "OGW",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "43640",
+          "card_attributes": {
+            "digitalobjectcatalogid": "43640",
+            "card_name": "Pyrokinesis",
+            "cost": "6",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "PRM",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "61797",
+          "card_attributes": {
+            "digitalobjectcatalogid": "61797",
+            "card_name": "Smuggler\u0027s Copter",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "KLD",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "64650",
+          "card_attributes": {
+            "digitalobjectcatalogid": "64650",
+            "card_name": "Abrade",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "HOU",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "64892",
+          "card_attributes": {
+            "digitalobjectcatalogid": "64892",
+            "card_name": "Survivors\u0027 Encampment",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "HOU",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "72842",
+          "card_attributes": {
+            "digitalobjectcatalogid": "72842",
+            "card_name": "Universal Automaton",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "MH1",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "78632",
+          "card_attributes": {
+            "digitalobjectcatalogid": "78632",
+            "card_name": "Dwarven Mine",
+            "cost": "0",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "ELD",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "79598",
+          "card_attributes": {
+            "digitalobjectcatalogid": "79598",
+            "card_name": "Soul-Guide Lantern",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "COLORLESS",
+            "cardset": "THB",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "87575",
+          "card_attributes": {
+            "digitalobjectcatalogid": "87575",
+            "card_name": "Axgard Cavalry",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "KHM",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "90629",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90629",
+            "card_name": "Fury",
+            "cost": "5",
+            "rarity": "MYTHIC",
+            "color": "RED",
+            "cardset": "MH2",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "90869",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90869",
+            "card_name": "Arid Mesa",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "MH2",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "90899",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90899",
+            "card_name": "Urza\u0027s Saga",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "MH2",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "91818",
+          "card_attributes": {
+            "digitalobjectcatalogid": "91818",
+            "card_name": "Plundering Barbarian",
+            "cost": "3",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "AFR",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "97210",
+          "card_attributes": {
+            "digitalobjectcatalogid": "97210",
+            "card_name": "Fable of the Mirror-Breaker",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "NEO",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "97276",
+          "card_attributes": {
+            "digitalobjectcatalogid": "97276",
+            "card_name": "Voltage Surge",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "NEO",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "97444",
+          "card_attributes": {
+            "digitalobjectcatalogid": "97444",
+            "card_name": "High-Speed Hoverbike",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "COLORLESS",
+            "cardset": "NEO",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "98711",
+          "card_attributes": {
+            "digitalobjectcatalogid": "98711",
+            "card_name": "Unlicensed Hearse",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "SNC",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "105104",
+          "card_attributes": {
+            "digitalobjectcatalogid": "105104",
+            "card_name": "Portal to Phyrexia",
+            "cost": "9",
+            "rarity": "MYTHIC",
+            "color": "COLORLESS",
+            "cardset": "BRO",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "110432",
+          "card_attributes": {
+            "digitalobjectcatalogid": "110432",
+            "card_name": "Flywheel Racer",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "COLORLESS",
+            "cardset": "MOM",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "111756",
+          "card_attributes": {
+            "digitalobjectcatalogid": "111756",
+            "card_name": "Gl\u00F3in, Dwarf Emissary",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "LTR",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "115808",
+          "card_attributes": {
+            "digitalobjectcatalogid": "115808",
+            "card_name": "Clown Car",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "UNF",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "117700",
+          "card_attributes": {
+            "digitalobjectcatalogid": "117700",
+            "card_name": "Roaming Throne",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "LCI",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "118494",
+          "card_attributes": {
+            "digitalobjectcatalogid": "118494",
+            "card_name": "Broadside Bombardiers",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "LCC",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "124177",
+          "card_attributes": {
+            "digitalobjectcatalogid": "124177",
+            "card_name": "Magda, the Hoardmaster",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "OTJ",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "126261",
+          "card_attributes": {
+            "digitalobjectcatalogid": "126261",
+            "card_name": "Galvanic Discharge",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "MH3",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "126263",
+          "card_attributes": {
+            "digitalobjectcatalogid": "126263",
+            "card_name": "Ghostfire Slice",
+            "cost": "3",
+            "rarity": "UNCOMMON",
+            "color": "COLORLESS",
+            "cardset": "MH3",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "125627",
+          "card_attributes": {
+            "digitalobjectcatalogid": "125627",
+            "card_name": "Party Thrasher",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "MH3",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "126437",
+          "card_attributes": {
+            "digitalobjectcatalogid": "126437",
+            "card_name": "Disruptor Flute",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "MH3",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "126445",
+          "card_attributes": {
+            "digitalobjectcatalogid": "126445",
+            "card_name": "Winter Moon",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "MH3",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "125973",
+          "card_attributes": {
+            "digitalobjectcatalogid": "125973",
+            "card_name": "Laelia, the Blade Reforged",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "MH3",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "125759",
+          "card_attributes": {
+            "digitalobjectcatalogid": "125759",
+            "card_name": "Arena of Glory",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "MH3",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "130453",
+          "card_attributes": {
+            "digitalobjectcatalogid": "130453",
+            "card_name": "Untimely Malfunction",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "DSK",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "130445",
+          "card_attributes": {
+            "digitalobjectcatalogid": "130445",
+            "card_name": "Screaming Nemesis",
+            "cost": "3",
+            "rarity": "MYTHIC",
+            "color": "RED",
+            "cardset": "DSK",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "132359",
+          "card_attributes": {
+            "digitalobjectcatalogid": "132359",
+            "card_name": "Bottle-Cap Blast",
+            "cost": "5",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "PIP",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "140709",
+          "card_attributes": {
+            "digitalobjectcatalogid": "140709",
+            "card_name": "Gogo, Mysterious Mime",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "FIC",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "142617",
+          "card_attributes": {
+            "digitalobjectcatalogid": "142617",
+            "card_name": "Tezzeret, Cruel Captain",
+            "cost": "3",
+            "rarity": "MYTHIC",
+            "color": "COLORLESS",
+            "cardset": "EOE",
+            "card_type": "PLNWKR",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "143251",
+          "card_attributes": {
+            "digitalobjectcatalogid": "143251",
+            "card_name": "Kavaron, Memorial World",
+            "cost": "0",
+            "rarity": "MYTHIC",
+            "color": "COLORLESS",
+            "cardset": "EOE",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "144786",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144786",
+            "card_name": "Redirect Lightning",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "TLA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "146699",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146699",
+            "card_name": "Sear",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "ECL",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "146681",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146681",
+            "card_name": "Hexing Squelcher",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "ECL",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "149737",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149737",
+            "card_name": "Impractical Joke",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "SOS",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "149755",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149755",
+            "card_name": "Rubble Rouser",
+            "cost": "3",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "SOS",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "154112",
+          "card_attributes": {
+            "digitalobjectcatalogid": "154112",
+            "card_name": "D\u00E1in Ironfoot",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "HOB",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "154118",
+          "card_attributes": {
+            "digitalobjectcatalogid": "154118",
+            "card_name": "Dori, Bearer of Friends",
+            "cost": "3",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "HOB",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "154120",
+          "card_attributes": {
+            "digitalobjectcatalogid": "154120",
+            "card_name": "Dwarven Mauler",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "HOB",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "154146",
+          "card_attributes": {
+            "digitalobjectcatalogid": "154146",
+            "card_name": "\u00D3in the Brave",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "HOB",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "154514",
+          "card_attributes": {
+            "digitalobjectcatalogid": "154514",
+            "card_name": "Smaug the Magnificent",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "RED",
+            "cardset": "HOB",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "154621",
+          "card_attributes": {
+            "digitalobjectcatalogid": "154621",
+            "card_name": "F\u00EDli and K\u00EDli, Joyous",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "HOC",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "87619",
+          "card_attributes": {
+            "digitalobjectcatalogid": "87619",
+            "card_name": "Magda, Brazen Outlaw",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "KHM",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "35762886"
+    }
+  ],
+  "playeventid": "10931",
+  "name": "Duel Commander League",
+  "publish_date": "2026-08-25",
+  "instance_id": "10931_2026-08-25",
+  "site_name": "duel-commander-league-2026-08-2510931",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
