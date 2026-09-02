@@ -1,0 +1,582 @@
+{
+  "decklists": [
+    {
+      "player": "giggimille",
+      "loginid": "855738",
+      "instance_id": "10999_2026-09-02",
+      "main_deck": [
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "144900",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144900",
+            "card_name": "Abandon Attachments",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "MULTICOLORED",
+            "cardset": "TLA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE",
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "144566",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144566",
+            "card_name": "Accumulate Wisdom",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "BLUE",
+            "cardset": "TLA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "144738",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144738",
+            "card_name": "Combustion Technique",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "TLA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "88559",
+          "card_attributes": {
+            "digitalobjectcatalogid": "88559",
+            "card_name": "Divide by Zero",
+            "cost": "3",
+            "rarity": "UNCOMMON",
+            "color": "BLUE",
+            "cardset": "STX",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "144758",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144758",
+            "card_name": "Firebending Lesson",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "TLA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "144586",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144586",
+            "card_name": "Gran-Gran",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "BLUE",
+            "cardset": "TLA",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "139707",
+          "card_attributes": {
+            "digitalobjectcatalogid": "139707",
+            "card_name": "Jeskai Revelation",
+            "cost": "7",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "TDM",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE",
+              "COLOR_BLUE",
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "102392",
+          "card_attributes": {
+            "digitalobjectcatalogid": "102392",
+            "card_name": "Island",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "DMU",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "144594",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144594",
+            "card_name": "It\u0027ll Quench Ya!",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "TLA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "146997",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146997",
+            "card_name": "Steam Vents",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "ECL",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "61851",
+          "card_attributes": {
+            "digitalobjectcatalogid": "61851",
+            "card_name": "Spirebluff Canal",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "KLD",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "146923",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146923",
+            "card_name": "Hallowed Fountain",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "ECL",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "136257",
+          "card_attributes": {
+            "digitalobjectcatalogid": "136257",
+            "card_name": "Stock Up",
+            "cost": "3",
+            "rarity": "UNCOMMON",
+            "color": "BLUE",
+            "cardset": "DFT",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "150025",
+          "card_attributes": {
+            "digitalobjectcatalogid": "150025",
+            "card_name": "Stormcarved Coast",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "SOS",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "150027",
+          "card_attributes": {
+            "digitalobjectcatalogid": "150027",
+            "card_name": "Sundown Pass",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "SOS",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "149763",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149763",
+            "card_name": "Tablet of Discovery",
+            "cost": "3",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "SOS",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "152499",
+          "card_attributes": {
+            "digitalobjectcatalogid": "152499",
+            "card_name": "Thor, God of Thunder",
+            "cost": "5",
+            "rarity": "MYTHIC",
+            "color": "RED",
+            "cardset": "MSH",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "136643",
+          "card_attributes": {
+            "digitalobjectcatalogid": "136643",
+            "card_name": "Riverpyre Verge",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "DFT",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "143253",
+          "card_attributes": {
+            "digitalobjectcatalogid": "143253",
+            "card_name": "Sacred Foundry",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "EOE",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "144566",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144566",
+            "card_name": "Accumulate Wisdom",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "BLUE",
+            "cardset": "TLA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "144490",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144490",
+            "card_name": "Airbender\u0027s Reversal",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "WHITE",
+            "cardset": "TLA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "50578",
+          "card_attributes": {
+            "digitalobjectcatalogid": "50578",
+            "card_name": "Anger of the Gods",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "THS",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "149589",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149589",
+            "card_name": "Emeritus of Ideation",
+            "cost": "5",
+            "rarity": "MYTHIC",
+            "color": "BLUE",
+            "cardset": "SOS",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "130627",
+          "card_attributes": {
+            "digitalobjectcatalogid": "130627",
+            "card_name": "Ghost Vacuum",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "DSK",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "149739",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149739",
+            "card_name": "Improvisation Capstone",
+            "cost": "7",
+            "rarity": "MYTHIC",
+            "color": "RED",
+            "cardset": "SOS",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "144764",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144764",
+            "card_name": "Iroh\u0027s Demonstration",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "TLA",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "144782",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144782",
+            "card_name": "Price of Freedom",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "TLA",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "129137",
+          "card_attributes": {
+            "digitalobjectcatalogid": "129137",
+            "card_name": "Ral, Crackling Wit",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "BLB",
+            "card_type": "PLNWKR",
+            "colors": [
+              "COLOR_BLUE",
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "144622",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144622",
+            "card_name": "Sokka\u0027s Haiku",
+            "cost": "5",
+            "rarity": "UNCOMMON",
+            "color": "BLUE",
+            "cardset": "TLA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "106697",
+          "card_attributes": {
+            "digitalobjectcatalogid": "106697",
+            "card_name": "Soulless Jailer",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "ONE",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "59613",
+          "card_attributes": {
+            "digitalobjectcatalogid": "59613",
+            "card_name": "Sphinx of the Final Word",
+            "cost": "7",
+            "rarity": "MYTHIC",
+            "color": "BLUE",
+            "cardset": "OGW",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "153059",
+          "card_attributes": {
+            "digitalobjectcatalogid": "153059",
+            "card_name": "Avengers Disassembled",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "MSH",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "35829281"
+    }
+  ],
+  "playeventid": "10999",
+  "name": "Pioneer League",
+  "publish_date": "2026-09-02",
+  "instance_id": "10999_2026-09-02",
+  "site_name": "pioneer-league-2026-09-0210999",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
