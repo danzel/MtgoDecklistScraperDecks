@@ -1,0 +1,460 @@
+{
+  "decklists": [
+    {
+      "player": "Martin_Oviedo",
+      "loginid": "3505764",
+      "instance_id": "11007_2026-09-10",
+      "main_deck": [
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "52803",
+          "card_attributes": {
+            "digitalobjectcatalogid": "52803",
+            "card_name": "Frantic Search",
+            "cost": "3",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "VMA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "142227",
+          "card_attributes": {
+            "digitalobjectcatalogid": "142227",
+            "card_name": "Swords to Plowshares",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "WHITE",
+            "cardset": "EOC",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "52843",
+          "card_attributes": {
+            "digitalobjectcatalogid": "52843",
+            "card_name": "Seal of Cleansing",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "WHITE",
+            "cardset": "VMA",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "36046",
+          "card_attributes": {
+            "digitalobjectcatalogid": "36046",
+            "card_name": "Intuition",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "BLUE",
+            "cardset": "PRM",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "12796",
+          "card_attributes": {
+            "digitalobjectcatalogid": "12796",
+            "card_name": "Replenish",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "WHITE",
+            "cardset": "UD",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "12793",
+          "card_attributes": {
+            "digitalobjectcatalogid": "12793",
+            "card_name": "Opalescence",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "WHITE",
+            "cardset": "UD",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "18896",
+          "card_attributes": {
+            "digitalobjectcatalogid": "18896",
+            "card_name": "Decree of Silence",
+            "cost": "8",
+            "rarity": "RARE",
+            "color": "BLUE",
+            "cardset": "SCG",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "52839",
+          "card_attributes": {
+            "digitalobjectcatalogid": "52839",
+            "card_name": "Parallax Wave",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "WHITE",
+            "cardset": "VMA",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "102962",
+          "card_attributes": {
+            "digitalobjectcatalogid": "102962",
+            "card_name": "Adarkar Wastes",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "DMU",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "97734",
+          "card_attributes": {
+            "digitalobjectcatalogid": "97734",
+            "card_name": "Skycloud Expanse",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "NEC",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "70549",
+          "card_attributes": {
+            "digitalobjectcatalogid": "70549",
+            "card_name": "Ancient Tomb",
+            "cost": "0",
+            "rarity": "BONUS",
+            "color": "COLORLESS",
+            "cardset": "UMA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "54194",
+          "card_attributes": {
+            "digitalobjectcatalogid": "54194",
+            "card_name": "Flooded Strand",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "KTK",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "145056",
+          "card_attributes": {
+            "digitalobjectcatalogid": "145056",
+            "card_name": "Plains",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "TLA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "144468",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144468",
+            "card_name": "Plains",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "TLA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "144458",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144458",
+            "card_name": "Plains",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "TLA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "145058",
+          "card_attributes": {
+            "digitalobjectcatalogid": "145058",
+            "card_name": "Island",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "TLA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "144470",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144470",
+            "card_name": "Island",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "TLA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "144460",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144460",
+            "card_name": "Island",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "TLA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "12025",
+          "card_attributes": {
+            "digitalobjectcatalogid": "12025",
+            "card_name": "Attunement",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "BLUE",
+            "cardset": "UZ",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "9354",
+          "card_attributes": {
+            "digitalobjectcatalogid": "9354",
+            "card_name": "Abeyance",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "WHITE",
+            "cardset": "WL",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "4",
+          "sideboard": "true",
+          "docid": "70923",
+          "card_attributes": {
+            "digitalobjectcatalogid": "70923",
+            "card_name": "Blue Elemental Blast",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "BLUE",
+            "cardset": "PRM",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "true",
+          "docid": "32276",
+          "card_attributes": {
+            "digitalobjectcatalogid": "32276",
+            "card_name": "Meddling Mage",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "ARB",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE",
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "31491",
+          "card_attributes": {
+            "digitalobjectcatalogid": "31491",
+            "card_name": "Exalted Angel",
+            "cost": "6",
+            "rarity": "RARE",
+            "color": "WHITE",
+            "cardset": "PRM",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "58926",
+          "card_attributes": {
+            "digitalobjectcatalogid": "58926",
+            "card_name": "Exalted Angel",
+            "cost": "6",
+            "rarity": "MYTHIC",
+            "color": "WHITE",
+            "cardset": "V15",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_WHITE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "true",
+          "docid": "19131",
+          "card_attributes": {
+            "digitalobjectcatalogid": "19131",
+            "card_name": "Defense Grid",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "8ED",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "35890755"
+    }
+  ],
+  "playeventid": "11007",
+  "name": "Premodern League",
+  "publish_date": "2026-09-10",
+  "instance_id": "11007_2026-09-10",
+  "site_name": "premodern-league-2026-09-1011007",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
