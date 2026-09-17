@@ -1,0 +1,477 @@
+{
+  "decklists": [
+    {
+      "player": "ManaCrip",
+      "loginid": "2504601",
+      "instance_id": "11047_2026-09-17",
+      "main_deck": [
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "53233",
+          "card_attributes": {
+            "digitalobjectcatalogid": "53233",
+            "card_name": "Bazaar of Baghdad",
+            "cost": "0",
+            "rarity": "MYTHIC",
+            "color": "COLORLESS",
+            "cardset": "VMA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "72476",
+          "card_attributes": {
+            "digitalobjectcatalogid": "72476",
+            "card_name": "Force of Negation",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "BLUE",
+            "cardset": "MH1",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "90603",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90603",
+            "card_name": "Blazing Rootwalla",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "MH2",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "17293",
+          "card_attributes": {
+            "digitalobjectcatalogid": "17293",
+            "card_name": "Basking Rootwalla",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "GREEN",
+            "cardset": "TOR",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "87169",
+          "card_attributes": {
+            "digitalobjectcatalogid": "87169",
+            "card_name": "Hollow One",
+            "cost": "5",
+            "rarity": "BONUS",
+            "color": "COLORLESS",
+            "cardset": "TSR",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "19995",
+          "card_attributes": {
+            "digitalobjectcatalogid": "19995",
+            "card_name": "Chalice of the Void",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "MRD",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "20561",
+          "card_attributes": {
+            "digitalobjectcatalogid": "20561",
+            "card_name": "Serum Powder",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "DST",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "52853",
+          "card_attributes": {
+            "digitalobjectcatalogid": "52853",
+            "card_name": "Strip Mine",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "VMA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "134195",
+          "card_attributes": {
+            "digitalobjectcatalogid": "134195",
+            "card_name": "Squee, Goblin Nabob",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "MB2",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "39920",
+          "card_attributes": {
+            "digitalobjectcatalogid": "39920",
+            "card_name": "Mental Misstep",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "BLUE",
+            "cardset": "NPH",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "36540",
+          "card_attributes": {
+            "digitalobjectcatalogid": "36540",
+            "card_name": "Vengevine",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "GREEN",
+            "cardset": "ROE",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "90787",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90787",
+            "card_name": "Master of Death",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "MH2",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE",
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "39922",
+          "card_attributes": {
+            "digitalobjectcatalogid": "39922",
+            "card_name": "Noxious Revival",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "GREEN",
+            "cardset": "NPH",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "34802",
+          "card_attributes": {
+            "digitalobjectcatalogid": "34802",
+            "card_name": "Mindbreak Trap",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "BLUE",
+            "cardset": "ZEN",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "90507",
+          "card_attributes": {
+            "digitalobjectcatalogid": "90507",
+            "card_name": "Subtlety",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "BLUE",
+            "cardset": "MH2",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "25459",
+          "card_attributes": {
+            "digitalobjectcatalogid": "25459",
+            "card_name": "Snapback",
+            "cost": "2",
+            "rarity": "COMMON",
+            "color": "BLUE",
+            "cardset": "TSP",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "60887",
+          "card_attributes": {
+            "digitalobjectcatalogid": "60887",
+            "card_name": "Force of Will",
+            "cost": "5",
+            "rarity": "MYTHIC",
+            "color": "BLUE",
+            "cardset": "EMA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLUE"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "72700",
+          "card_attributes": {
+            "digitalobjectcatalogid": "72700",
+            "card_name": "Force of Vigor",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "MH1",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "60971",
+          "card_attributes": {
+            "digitalobjectcatalogid": "60971",
+            "card_name": "Wasteland",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "EMA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "4",
+          "sideboard": "true",
+          "docid": "23911",
+          "card_attributes": {
+            "digitalobjectcatalogid": "23911",
+            "card_name": "Leyline of the Void",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "GPT",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "91275",
+          "card_attributes": {
+            "digitalobjectcatalogid": "91275",
+            "card_name": "Fury",
+            "cost": "5",
+            "rarity": "MYTHIC",
+            "color": "RED",
+            "cardset": "PRM",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "30710",
+          "card_attributes": {
+            "digitalobjectcatalogid": "30710",
+            "card_name": "Pyrokinesis",
+            "cost": "6",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "ME2",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "72700",
+          "card_attributes": {
+            "digitalobjectcatalogid": "72700",
+            "card_name": "Force of Vigor",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "GREEN",
+            "cardset": "MH1",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "36113",
+          "card_attributes": {
+            "digitalobjectcatalogid": "36113",
+            "card_name": "Gaea\u0027s Cradle",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "PRM",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "16435",
+          "card_attributes": {
+            "digitalobjectcatalogid": "16435",
+            "card_name": "Petrified Field",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "OD",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "24255",
+          "card_attributes": {
+            "digitalobjectcatalogid": "24255",
+            "card_name": "Ghost Quarter",
+            "cost": "0",
+            "rarity": "UNCOMMON",
+            "color": "COLORLESS",
+            "cardset": "DIS",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "35929734"
+    }
+  ],
+  "playeventid": "11047",
+  "name": "Vintage League",
+  "publish_date": "2026-09-17",
+  "instance_id": "11047_2026-09-17",
+  "site_name": "vintage-league-2026-09-1711047",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
