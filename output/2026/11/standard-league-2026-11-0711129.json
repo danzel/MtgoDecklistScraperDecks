@@ -1,0 +1,546 @@
+{
+  "decklists": [
+    {
+      "player": "PASCU95",
+      "loginid": "3163730",
+      "instance_id": "11129_2026-11-07",
+      "main_deck": [
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "117986",
+          "card_attributes": {
+            "digitalobjectcatalogid": "117986",
+            "card_name": "Bitter Triumph",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "BLACK",
+            "cardset": "LCI",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "130671",
+          "card_attributes": {
+            "digitalobjectcatalogid": "130671",
+            "card_name": "Thornspire Verge",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "DSK",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "142607",
+          "card_attributes": {
+            "digitalobjectcatalogid": "142607",
+            "card_name": "Mountain",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "EOE",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "147801",
+          "card_attributes": {
+            "digitalobjectcatalogid": "147801",
+            "card_name": "Cool but Rude",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "TMT",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "47803",
+          "card_attributes": {
+            "digitalobjectcatalogid": "47803",
+            "card_name": "Stomping Ground",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "GTC",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "155812",
+          "card_attributes": {
+            "digitalobjectcatalogid": "155812",
+            "card_name": "Darklight Phoenix",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "BLACK",
+            "cardset": "FRA",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "149489",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149489",
+            "card_name": "Swamp",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "SOS",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "146609",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146609",
+            "card_name": "Moonshadow",
+            "cost": "1",
+            "rarity": "MYTHIC",
+            "color": "BLACK",
+            "cardset": "ECL",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "156360",
+          "card_attributes": {
+            "digitalobjectcatalogid": "156360",
+            "card_name": "Dark Matter Manipulator",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "FRA",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "153755",
+          "card_attributes": {
+            "digitalobjectcatalogid": "153755",
+            "card_name": "Carnage, Crimson Chaos",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "SPM",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED",
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "144670",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144670",
+            "card_name": "Deadly Precision",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLACK",
+            "cardset": "TLA",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "66043",
+          "card_attributes": {
+            "digitalobjectcatalogid": "66043",
+            "card_name": "Bloodghast",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "IMA",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "144116",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144116",
+            "card_name": "Skittering Kitten",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "RED",
+            "cardset": "OM1",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "141555",
+          "card_attributes": {
+            "digitalobjectcatalogid": "141555",
+            "card_name": "Starting Town",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "FIN",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "24053",
+          "card_attributes": {
+            "digitalobjectcatalogid": "24053",
+            "card_name": "Blood Crypt",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "DIS",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "156343",
+          "card_attributes": {
+            "digitalobjectcatalogid": "156343",
+            "card_name": "Stingerquill Charm",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "MULTICOLORED",
+            "cardset": "FRA",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLACK",
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "130057",
+          "card_attributes": {
+            "digitalobjectcatalogid": "130057",
+            "card_name": "Blazemire Verge",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "DSK",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "155886",
+          "card_attributes": {
+            "digitalobjectcatalogid": "155886",
+            "card_name": "Pompous Battlemage",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "FRA",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "121442",
+          "card_attributes": {
+            "digitalobjectcatalogid": "121442",
+            "card_name": "Raucous Theater",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "MKM",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "149491",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149491",
+            "card_name": "Swamp",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "SOS",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "149495",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149495",
+            "card_name": "Mountain",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "SOS",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "149493",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149493",
+            "card_name": "Mountain",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "SOS",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "140877",
+          "card_attributes": {
+            "digitalobjectcatalogid": "140877",
+            "card_name": "Swamp",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "FIN",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "139209",
+          "card_attributes": {
+            "digitalobjectcatalogid": "139209",
+            "card_name": "Tersa Lightshatter",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "RED",
+            "cardset": "TDM",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "106399",
+          "card_attributes": {
+            "digitalobjectcatalogid": "106399",
+            "card_name": "Duress",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLACK",
+            "cardset": "ONE",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "121816",
+          "card_attributes": {
+            "digitalobjectcatalogid": "121816",
+            "card_name": "Pick Your Poison",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "GREEN",
+            "cardset": "MKM",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "61573",
+          "card_attributes": {
+            "digitalobjectcatalogid": "61573",
+            "card_name": "Chandra, Torch of Defiance",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "RED",
+            "cardset": "KLD",
+            "card_type": "PLNWKR",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "146621",
+          "card_attributes": {
+            "digitalobjectcatalogid": "146621",
+            "card_name": "Requiting Hex",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "BLACK",
+            "cardset": "ECL",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "139141",
+          "card_attributes": {
+            "digitalobjectcatalogid": "139141",
+            "card_name": "Strategic Betrayal",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "BLACK",
+            "cardset": "TDM",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "104890",
+          "card_attributes": {
+            "digitalobjectcatalogid": "104890",
+            "card_name": "Giant Cindermaw",
+            "cost": "3",
+            "rarity": "UNCOMMON",
+            "color": "RED",
+            "cardset": "BRO",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_RED"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "36249855"
+    }
+  ],
+  "playeventid": "11129",
+  "name": "Standard League",
+  "publish_date": "2026-11-07",
+  "instance_id": "11129_2026-11-07",
+  "site_name": "standard-league-2026-11-0711129",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
