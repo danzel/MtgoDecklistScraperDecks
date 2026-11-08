@@ -1,0 +1,531 @@
+{
+  "decklists": [
+    {
+      "player": "Erratacorrige",
+      "loginid": "902523",
+      "instance_id": "11137_2026-11-08",
+      "main_deck": [
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "50256",
+          "card_attributes": {
+            "digitalobjectcatalogid": "50256",
+            "card_name": "Thoughtseize",
+            "cost": "1",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "THS",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "156142",
+          "card_attributes": {
+            "digitalobjectcatalogid": "156142",
+            "card_name": "Swamp",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "FRA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "false",
+          "docid": "117986",
+          "card_attributes": {
+            "digitalobjectcatalogid": "117986",
+            "card_name": "Bitter Triumph",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "BLACK",
+            "cardset": "LCI",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "116234",
+          "card_attributes": {
+            "digitalobjectcatalogid": "116234",
+            "card_name": "Restless Cottage",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "WOE",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "149928",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149928",
+            "card_name": "Professor Dellian Fel",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "SOS",
+            "card_type": "PLNWKR",
+            "colors": [
+              "COLOR_GREEN",
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "78628",
+          "card_attributes": {
+            "digitalobjectcatalogid": "78628",
+            "card_name": "Castle Locthwain",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "ELD",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "88851",
+          "card_attributes": {
+            "digitalobjectcatalogid": "88851",
+            "card_name": "Culling Ritual",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "STX",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_GREEN",
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "134548",
+          "card_attributes": {
+            "digitalobjectcatalogid": "134548",
+            "card_name": "Duress",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLACK",
+            "cardset": "FDN",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "46507",
+          "card_attributes": {
+            "digitalobjectcatalogid": "46507",
+            "card_name": "Overgrown Tomb",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "RTR",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "29074",
+          "card_attributes": {
+            "digitalobjectcatalogid": "29074",
+            "card_name": "Mutavault",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "MOR",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "93164",
+          "card_attributes": {
+            "digitalobjectcatalogid": "93164",
+            "card_name": "Graveyard Trespasser",
+            "cost": "3",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "MID",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "105152",
+          "card_attributes": {
+            "digitalobjectcatalogid": "105152",
+            "card_name": "Llanowar Wastes",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "BRO",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "156154",
+          "card_attributes": {
+            "digitalobjectcatalogid": "156154",
+            "card_name": "Forest",
+            "cost": "0",
+            "rarity": "BASIC_LAND",
+            "color": "COLORLESS",
+            "cardset": "FRA",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "64998",
+          "card_attributes": {
+            "digitalobjectcatalogid": "64998",
+            "card_name": "Fatal Push",
+            "cost": "1",
+            "rarity": "UNCOMMON",
+            "color": "BLACK",
+            "cardset": "PRM",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "97483",
+          "card_attributes": {
+            "digitalobjectcatalogid": "97483",
+            "card_name": "Boseiju, Who Endures",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "NEO",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "116904",
+          "card_attributes": {
+            "digitalobjectcatalogid": "116904",
+            "card_name": "Restless Cottage",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "WOE",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "102690",
+          "card_attributes": {
+            "digitalobjectcatalogid": "102690",
+            "card_name": "Sheoldred, the Apocalypse",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "BLACK",
+            "cardset": "DMU",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "61849",
+          "card_attributes": {
+            "digitalobjectcatalogid": "61849",
+            "card_name": "Blooming Marsh",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "KLD",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "97506",
+          "card_attributes": {
+            "digitalobjectcatalogid": "97506",
+            "card_name": "Takenuma, Abandoned Mire",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "NEO",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "144819",
+          "card_attributes": {
+            "digitalobjectcatalogid": "144819",
+            "card_name": "Badgermole Cub",
+            "cost": "2",
+            "rarity": "MYTHIC",
+            "color": "GREEN",
+            "cardset": "TLA",
+            "card_type": "ISCREA",
+            "colors": [
+              "COLOR_GREEN"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "false",
+          "docid": "46497",
+          "card_attributes": {
+            "digitalobjectcatalogid": "46497",
+            "card_name": "Abrupt Decay",
+            "cost": "2",
+            "rarity": "RARE",
+            "color": "MULTICOLORED",
+            "cardset": "RTR",
+            "card_type": "INSTNT",
+            "colors": [
+              "COLOR_GREEN",
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "false",
+          "docid": "53250",
+          "card_attributes": {
+            "digitalobjectcatalogid": "53250",
+            "card_name": "Urborg, Tomb of Yawgmoth",
+            "cost": "0",
+            "rarity": "RARE",
+            "color": "COLORLESS",
+            "cardset": "M15",
+            "card_type": "LAND  ",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "false",
+          "docid": "130031",
+          "card_attributes": {
+            "digitalobjectcatalogid": "130031",
+            "card_name": "Unholy Annex // Ritual Chamber",
+            "cost": "8",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "DSK",
+            "card_type": "ENCHMT",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        }
+      ],
+      "sideboard_deck": [
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "67891",
+          "card_attributes": {
+            "digitalobjectcatalogid": "67891",
+            "card_name": "Damping Sphere",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "COLORLESS",
+            "cardset": "DAR",
+            "card_type": "ARTFCT",
+            "colors": [
+              "COLOR_COLORLESS"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "134548",
+          "card_attributes": {
+            "digitalobjectcatalogid": "134548",
+            "card_name": "Duress",
+            "cost": "1",
+            "rarity": "COMMON",
+            "color": "BLACK",
+            "cardset": "FDN",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "3",
+          "sideboard": "true",
+          "docid": "80186",
+          "card_attributes": {
+            "digitalobjectcatalogid": "80186",
+            "card_name": "Extinction Event",
+            "cost": "4",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "IKO",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "2",
+          "sideboard": "true",
+          "docid": "97122",
+          "card_attributes": {
+            "digitalobjectcatalogid": "97122",
+            "card_name": "Invoke Despair",
+            "cost": "5",
+            "rarity": "RARE",
+            "color": "BLACK",
+            "cardset": "NEO",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "4",
+          "sideboard": "true",
+          "docid": "139142",
+          "card_attributes": {
+            "digitalobjectcatalogid": "139142",
+            "card_name": "Strategic Betrayal",
+            "cost": "2",
+            "rarity": "UNCOMMON",
+            "color": "BLACK",
+            "cardset": "TDM",
+            "card_type": "SORCRY",
+            "colors": [
+              "COLOR_BLACK"
+            ]
+          }
+        },
+        {
+          "qty": "1",
+          "sideboard": "true",
+          "docid": "149928",
+          "card_attributes": {
+            "digitalobjectcatalogid": "149928",
+            "card_name": "Professor Dellian Fel",
+            "cost": "4",
+            "rarity": "MYTHIC",
+            "color": "MULTICOLORED",
+            "cardset": "SOS",
+            "card_type": "PLNWKR",
+            "colors": [
+              "COLOR_GREEN",
+              "COLOR_BLACK"
+            ]
+          }
+        }
+      ],
+      "wins": {
+        "wins": "5",
+        "losses": "0"
+      },
+      "tournamentid": null,
+      "decktournamentid": null,
+      "loginplayeventcourseid": "36254698"
+    }
+  ],
+  "playeventid": "11137",
+  "name": "Pioneer League",
+  "publish_date": "2026-11-08",
+  "instance_id": "11137_2026-11-08",
+  "site_name": "pioneer-league-2026-11-0811137",
+  "event_id": null,
+  "description": null,
+  "starttime": null,
+  "format": null,
+  "type": null,
+  "url": null,
+  "inplayoffs": null,
+  "final_rank": null,
+  "player_count": null
+}
